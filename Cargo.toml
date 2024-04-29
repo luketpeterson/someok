@@ -1,0 +1,14 @@
+[package]
+name = "someok"
+version = "0.1.0"
+edition = "2021"
+authors = ["Luke Peterson <luketpeterson@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "A *tiny* crate that wraps [Result] and [Option] while we wait for `try_trait_v2` to stabilize"
+repository = "https://github.com/luketpeterson/someok/"
+readme = "README.md"
+keywords = ["option", "result", "try", "unwrap"]
+categories = ["Rust patterns"]
+
+[dependencies]
+

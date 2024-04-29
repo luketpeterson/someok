@@ -8,7 +8,7 @@ description = "A *tiny* crate that wraps [Result] and [Option] while we wait for
 repository = "https://github.com/luketpeterson/someok/"
 readme = "README.md"
 keywords = ["option", "result", "try", "unwrap"]
-categories = ["Rust patterns"]
+categories = ["rust-patterns"]
 
 [dependencies]
 
